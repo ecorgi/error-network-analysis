@@ -1,0 +1,1 @@
+```python error_network_analysis.py   --input data/synthetic_student_texts_300.csv  --annotations data/annotations_for_data.csv   --skip-grammar-check   --output-dir results_run   --unit sentence   --edge-mode auto   --save-figures   --plot-language ru   --report-language ru```
